@@ -5,3 +5,4 @@ collection: portfolio
 ---
 
 A prototype website aboout an ai assisted mentoring service 
+<img src = '/images/Portofolio-1.png'>
